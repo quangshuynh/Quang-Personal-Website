@@ -1,4 +1,4 @@
-This was a personal resume website I made for fun in 2021.
+This was a personal resume website I made for fun in 2021 (it has a working navigation bar!!!).
 
 Languages: HTML, CSS, Javascript
 
